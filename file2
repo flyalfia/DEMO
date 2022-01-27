@@ -1,1 +1,7 @@
+git stash apply 
+git stash pop
+git stash remove
+git delete
 
+git drop
+git modified
